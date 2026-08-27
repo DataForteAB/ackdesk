@@ -23,6 +23,10 @@ An Atlassian Forge app by **DataForte AB**, available on the Atlassian Marketpla
 - Runs entirely on Atlassian Forge with **no external calls** — nothing about your pages or
   people leaves Atlassian, and there is no server to run.
 
+## Guides
+
+- [How to track who has read a policy in Confluence](how-to-track-who-read-a-policy.html)
+
 ## Pages
 
 - [Support](support.html)
